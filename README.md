@@ -1,6 +1,6 @@
 # Audio signal processing project
 
-This Github page contains the report and the code for the Tampere University Signal.120 course final project, which was quite an extensive one.
+This Github page contains the report and the code for the Tampere University Signal.120 course final project.
 
 The audio files used to train, validate and test the model are not included, but the results are visible in the Jupyter notebook file.
 
